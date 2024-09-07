@@ -1,1 +1,2 @@
 These scripts provide basic file management functionalities and user switching capabilities in a Linux environment using Bash scripting. Each script performs a specific task related to creating files, managing their permissions, and switching users effectively.
+git
